@@ -31,7 +31,7 @@ def decrypt(text, shift):
 
 
 # Full name to be encrypted and decrypted
-full_name = "Shrijal"
+full_name = "Shrijal Maharjan"
 
 # Shift value for the Caesar Cipher
 shift = int(input("Enter shift value: "))
