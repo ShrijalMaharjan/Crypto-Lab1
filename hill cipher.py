@@ -73,7 +73,7 @@ def get_key_from_user():
         key.append(row)
     return key
 
-plaintext = "Shrijal"
+plaintext = "Shrijal Maharjan"
 key = get_key_from_user()
 ciphertext = encrypt(plaintext, key)
 print("Encrypted:", ciphertext)
